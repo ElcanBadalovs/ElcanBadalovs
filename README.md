@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Elcan Badalov</h1>
 
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162877/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
 
 - 💬 Ask me about **React Js**
 
