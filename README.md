@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Elcan Badalov</h1>
 
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0dtPbhyS-QLN1x76w7Ug4O&ust=1675023610199000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLDb6dCN6_wCFQAAAAAdAAAAABAD">
 
 - 💬 Ask me about **React Js**
 
