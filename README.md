@@ -58,3 +58,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcanbadalovs&show_icons=true&locale=en&layout=compact" alt="elcanbadalovs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcanbadalovs&show_icons=true&locale=en" alt="elcanbadalovs" /></p>
+
+
+
+<br/>  <br/>  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="center" style="width: 20vh"/>
+</div>    
+  
