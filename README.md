@@ -29,7 +29,7 @@
 
 - 🌱 I’m currently learning JS and React js  
   
-
+ 
 - ❓ Ask me about anything related to FrontEnd and related technologies  
   
 
