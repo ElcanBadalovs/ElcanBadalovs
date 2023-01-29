@@ -25,7 +25,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 250px" />
 
-- ### 🔭 I’m currently working on [Github Profilinator](#)  
+- ### 🔭 I’m currently working on [Freelancer](#)  
   
 
 - ### 🌱 I’m currently learning JS and React js  
