@@ -36,7 +36,7 @@
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-<div align="center">
+<div align="right">
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="center" style="width: 400px" />
 </div>  
 
