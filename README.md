@@ -15,7 +15,7 @@
 </a>  
   
 
-## **A passionate frontend developer from Azerbaijan**  
+**A passionate frontend developer from Azerbaijan**  
   
 
 <br/>  
