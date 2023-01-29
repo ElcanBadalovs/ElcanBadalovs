@@ -25,16 +25,17 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 250px" />
 
-- 🔭 I’m currently working on [Github Profilinator](#)  
+- ### 🔭 I’m currently working on [Github Profilinator](#)  
   
 
-- 🌱 I’m currently learning JS and React js  
-  
- 
-- ❓ Ask me about anything related to FrontEnd and related technologies  
+- ### 🌱 I’m currently learning JS and React js  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ### ❓ Ask me about anything related to FrontEnd and related technologies  
+  
+
+- ### ⚡ Fun fact: I keep night shift swithed on at all times   
+
 
 
 </td></tr>
