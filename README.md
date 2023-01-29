@@ -59,7 +59,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&hide_border=true&layout=compact" align="left" style="width: 70%, display = inline-block" />
 
 </table>  
 
@@ -69,8 +69,8 @@
 
 <br/>  
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="left" />
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="center" />
 </div>    
   
 
