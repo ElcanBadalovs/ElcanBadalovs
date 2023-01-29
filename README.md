@@ -55,32 +55,6 @@
 
 
 ## Github Stats  
-<table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcanbadalovs&show_icons=true&locale=en&layout=compact" alt="elcanbadalovs" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%, display: inline-block" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&hide_border=true&layout=compact" align="left" style="width: 50%, display: inline-block" />
-
-</table>  
-
-<br/>  
-
-  
-<br/>
-<br/>
-<br/>
-<br/>  
-<br/>
-<br/>
-<br/>
-<br/> 
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="center" style="width: 20vh"/>
-</div>    
-  
-
-<br/>  
-
-
-<br />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcanbadalovs&show_icons=true&locale=en" alt="elcanbadalovs" /></p>
