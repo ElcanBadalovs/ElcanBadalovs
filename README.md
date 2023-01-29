@@ -76,7 +76,7 @@
 <br/> 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="center" style="width: 50px "/>
+<img src="https://komarev.com/ghpvc/?username=ElcanBadalovs&&style=flat-square" align="center" style="width: 20vh"/>
 </div>    
   
 
