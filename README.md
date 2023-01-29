@@ -57,7 +57,7 @@
 ## Github Stats  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elcanbadalovs&show_icons=true&locale=en&layout=compact" alt="elcanbadalovs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elcanbadalovs&show_icons=true&locale=en" alt="elcanbadalovs" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=elcanbadalovs&show_icons=true&locale=en" alt="elcanbadalovs" /></p>
 
 
 
