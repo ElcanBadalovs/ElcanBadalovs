@@ -25,7 +25,7 @@
 
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" align="right" style="width: 250px" />
 
-- ### 🔭 I’m currently working on [Freelancer](#)  
+- ### 🔭 I’m currently student at [Tech Academy](https://github.com/TechAcademy-Azerbaijan)  
   
 
 - ### 🌱 I’m currently learning JS and React js  
