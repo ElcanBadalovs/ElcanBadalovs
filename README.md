@@ -68,7 +68,7 @@
 ## Github Stats  
 <p align="center">
   <a href="https://github.com/ElcanBadalovs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElcanBadalovs&theme=radical&border=7F3FBF&background=0D1117" alt="ElcanBadalovs GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElcanBadalovs&theme=radical&border=#11FF00FF&background=#11FF00FF" alt="ElcanBadalovs GitHub streak"/>
   </a>
 </p>
 
@@ -79,8 +79,8 @@
 </p>
 
 <a> 
-    <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=#0900B2FF&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=#0900B2FF&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&theme=react&border_color=#11FF00FF&bg_color=#11FF00FF&title_color=##11FF00FF&icon_color=#11FF00FF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&langs_count=8&layout=compact&theme=react&border_color=#11FF00FF&bg_color=#11FF00FF&title_color=##11FF00FF&icon_color=#11FF00FF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
