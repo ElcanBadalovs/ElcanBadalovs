@@ -81,4 +81,4 @@
 </a>
 
 
-[![ElcanBadalovs github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElcanBadalovs&theme=react-dark&bg_color=0D1117)](https://github.com/ElcanBadalovs/github-readme-activity-graph)
+[![ElcanBadalovs github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ElcanBadalovs&theme=react-dark)](https://github.com/ElcanBadalovs/github-readme-activity-graph)
