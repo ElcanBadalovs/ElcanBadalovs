@@ -68,7 +68,7 @@
 ## Github Stats  
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ElcanBadalovs&theme=windows-dark" alt="GitHub Streak" /></a>
 
-<p align="center" style="background-color: green;">
+<p align="center">
   <a href="https://github.com/alsiam">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElcanBadalovs&theme=transparent" alt="ElcanBadalovs GitHub Contribution"/>
   </a>
