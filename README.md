@@ -68,7 +68,7 @@
 ## Github Stats  
 <p align="center">
   <a href="https://github.com/ElcanBadalovs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElcanBadalovs&theme=radical&border=#11FF00FF&background=#11FF00FF" alt="ElcanBadalovs GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElcanBadalovs&theme=radical&border=0900B2FF&background=0900B2FF" alt="ElcanBadalovs GitHub streak"/>
   </a>
 </p>
 
@@ -79,11 +79,11 @@
 </p>
 
 <a> 
-    <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&theme=react&border_color=#11FF00FF&bg_color=#11FF00FF&title_color=##11FF00FF&icon_color=#11FF00FF" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&langs_count=8&layout=compact&theme=react&border_color=#11FF00FF&bg_color=#11FF00FF&title_color=##11FF00FF&icon_color=#11FF00FF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=ElcanBadalovs&show_icons=true&count_private=true&theme=react&border_color=0900B2FF&bg_color=0900B2FF&title_color=0900B2FF&icon_color=#11FF00FF" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/ElcanBadalovs"><img alt="ElcanBadalovs Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ElcanBadalovs&langs_count=8&layout=compact&theme=react&border_color=0900B2FF&bg_color=#11FF00FF&title_color=0900B2FF&icon_color=0900B2FF" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=#0900B2FF&title_color=FFFFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0900B2FF&color=0900B2FF&line=0900B2FF&point=0900B2FF&area_color=0900B2FF&title_color=FFFFFF&area=true)
 
