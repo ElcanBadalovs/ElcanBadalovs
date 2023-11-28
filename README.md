@@ -70,7 +70,7 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElcanBadalovs&theme=radical" alt="ElcanBadalovs GitHub Contribution"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElcanBadalovs&theme=react" alt="ElcanBadalovs GitHub Contribution"/>
   </a>
 </p>
 
