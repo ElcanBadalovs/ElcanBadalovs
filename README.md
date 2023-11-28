@@ -81,4 +81,4 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElcanBadalovs&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=000000FF&color=00A4EFFF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=00A4EFFF&area=true)
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ElcanBadalovs&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=000000FF&color=00A4EFFF&line=00A4EFFF&point=7F3FBF&area_color=FFFFFF&title_color=00A4EFFF&area=true)
