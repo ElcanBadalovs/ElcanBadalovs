@@ -68,7 +68,7 @@
 ## Github Stats  
 <p align="center">
   <a href="https://github.com/ElcanBadalovs">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="ElcanBadalovs GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=11FF00FF&background=0D1117" alt="ElcanBadalovs GitHub streak"/>
   </a>
 </p>
 
