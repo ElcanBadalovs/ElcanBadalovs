@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elcan Badalov!  </h1>
+<h4 align="center">A Junior FrontEnd developer from Azerbaijan</h4>
   
 <img src=https://github.com/ElcanBadalovs/ElcanBadalovs/blob/main/header.png alt=github style="margin-bottom: 5px;" />
 
@@ -13,10 +14,7 @@
 </a>
 <a href="https://github.com/ElcanBadalovs" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-**A Junior FrontEnd developer from Azerbaijan**  
+</a>   
   
 
 <br/>  
