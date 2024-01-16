@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elcan Badalov!  </h1>
-<h4 align="center">A Junior FrontEnd developer from Azerbaijan</h4>
+<h3 align="center">A Junior FrontEnd developer from Azerbaijan</h3>
   
 <img src=https://github.com/ElcanBadalovs/ElcanBadalovs/blob/main/header.png alt=github style="margin-bottom: 5px;" />
 
