@@ -24,7 +24,7 @@
 - ### 🔭 I’m currently Junior FrontEnd Developer  
   
 
-- ### 🌱 I’m currently learning Next js  
+- ### 🌱 I’m currently learning BackEnd
   
 
 - ### ❓ Ask me about anything related to FrontEnd and related technologies  
