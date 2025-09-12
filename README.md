@@ -1,8 +1,7 @@
 <img src=https://github.com/ElcanBadalovs/ElcanBadalovs/blob/main/header.png alt=github style="margin-bottom: 5px;" />
 
 <h1 align="left">
-    I'm
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Front-End Developer!+👋;+I'm+Eljan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&left=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Front-End+Developer!+👋;+I'm+Eljan!;" />
 </h1>
 
 <a href="https://linkedin.com/in/Elcan Badalov" target="_blank">
