@@ -40,7 +40,7 @@
 ## Languages and Tools  
 <div align="left">
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,bootstrap,mui,vscode,vite,github,git,figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,bootstrap,mui,vscode,vite,github,git,figma,framer" />
   </a>
 <br/>
  <a href="https://go-skill-icons.vercel.app/">
