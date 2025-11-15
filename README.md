@@ -40,11 +40,11 @@
 ## Languages and Tools  
 <div align="left">
    <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,bootstrap,mui,vscode,github,figma" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,bootstrap,mui,vscode,vite,github,git,figma" />
   </a>
 <br/>
  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,react,vite,redux,nodejs,express,mongodb,git,c" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,node,python,c,cplus,react,redux,nodejs,express,mongodb," />
   </a>
 
 </div>
