@@ -44,7 +44,7 @@
   </a>
 <br/>
  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs,python,c,cpp,react,redux,nodejs,express,mongodb,sql" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript,typescript,nodejs,python,c,cpp,react,redux,nodejs,express,mongodb,mysql" />
   </a>
 
 </div>
