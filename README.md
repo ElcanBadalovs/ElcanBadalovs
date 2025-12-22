@@ -1,7 +1,7 @@
 <img src=https://github.com/EljanBadalov/ElcanBadalovs/blob/main/header.png alt=github style="margin-bottom: 5px;" />
 
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=32CD32&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eljan+Badalov!;I'm+Front-End+Developer!👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=32CD32&left=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Eljan+Badalov!;I'm+Software+Engineer!👨‍💻;" />
 </h1>
 
 <a href="https://linkedin.com/in/Elcan Badalov" target="_blank">
@@ -20,7 +20,7 @@
 
 <br/>  
 
-- ### 🔭 I’m currently Junior FrontEnd Developer  
+- ### 🔭 I’m currently Junior Software Engineer 
   
 
 - ### 🌱 I’m currently learning BackEnd
