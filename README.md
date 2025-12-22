@@ -13,7 +13,7 @@
 <a href="https://instagram.com/elcan_badalov" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/ElcanBadalovs" target="_blank">
+<a href="https://github.com/ElcanBadalov" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>   
   
@@ -54,5 +54,5 @@
 
 ## Github Stats  
 <div align=left>
-   <img width=330 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ElcanBadalovs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/>
+   <img width=330 align="left" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ElcanBadalov&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /><br/>
 </div>
